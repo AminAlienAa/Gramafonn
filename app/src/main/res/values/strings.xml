@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">گرامافون</string>
+
+    <!-- آدرس هاست واقعی گرامافون (index.html، app.css، app.js و api.php) -->
+    <string name="app_url">https://aliennnnn.oghabvip.ir/</string>
+
+    <string name="pick_image">انتخاب عکس</string>
+</resources>
