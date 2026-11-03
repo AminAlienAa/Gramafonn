@@ -1,4 +1,4 @@
-// فایل بیلد ریشه پروژه Gramafon
+// Root build file for the Gramafon project
 plugins {
     id 'com.android.application' version '8.5.2' apply false
 }
